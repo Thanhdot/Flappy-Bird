@@ -1,0 +1,38 @@
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.AssemblyReference.cache
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.FlappyBird.resources
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.Properties.Resources.resources
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.GenerateResource.cache
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.AssemblyInfoInputs.cache
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.AssemblyInfo.cs
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.CoreCompileInputs.cache
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.exe
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.deps.json
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.runtimeconfig.json
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.runtimeconfig.dev.json
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.dll
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.pdb
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.dll
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.pdb
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.genruntimeconfig.cache
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.playorquit.resources
+F:\UIT\Kì 1 2021-2022\Lập trình hướng đối tượng\Final Project\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.Start1.resources
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.exe
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.deps.json
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.runtimeconfig.json
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.runtimeconfig.dev.json
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.dll
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.pdb
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.AssemblyReference.cache
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.FlappyBird.resources
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.playorquit.resources
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.Properties.Resources.resources
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.Start1.resources
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.GenerateResource.cache
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.AssemblyInfoInputs.cache
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.AssemblyInfo.cs
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.CoreCompileInputs.cache
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.dll
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.pdb
+D:\Documents\HK2, 2021-2022\OOP\Flappy Bird OF\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.genruntimeconfig.cache
